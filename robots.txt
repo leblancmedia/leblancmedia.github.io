@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leblancmedia.github.io/testal-folio/sitemap.xml
+Sitemap: https://leblancmedia.github.io/sitemap.xml
